@@ -5,4 +5,4 @@ description : "this is meta description"
 image: "images/contact.svg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+Hi, you can also contact me direct at email : <a href="mailto:arifin.ekonur@gmail.com">arifin.ekonur@gmail.com</a>

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>Search Result</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="this is meta description">
+  
+  <meta name="author" content="Eko Nur Arifin">
+  <meta name="generator" content="Hugo 0.68.3" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://ekonurarifin.my.id/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://ekonurarifin.my.id/plugins/themify-icons/themify-icons.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://ekonurarifin.my.id/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://ekonurarifin.my.id/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://ekonurarifin.my.id/images/favicon.png " type="image/x-icon">
+
+  
+  
+  
+
+</head><body>
+    
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="fixed-top navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+      <a class="navbar-brand"href="https://ekonurarifin.my.id/"><img class="img-fluid" src="/images/hugo.svg" alt="Eko Nur Arifin"></a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu h3"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://ekonurarifin.my.id/"> Home </a>
+          </li>
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://ekonurarifin.my.id/contact">Contact</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://ekonurarifin.my.id/portfolios/my-portfolios">portfolios</a>
+            </li>
+            
+          
+        </ul>
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation --> <div class="py-5 d-none d-lg-block"></div> 
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <h2>Search result for
+          <span class="text-primary">
+            <script>
+              var str = (window.location.search).substr(3);
+              var result = decodeURI(str.replace(/+/g, " "));
+              document.write(result);
+            </script>
+          </span>
+        </h2>
+        <div class="block shadow">
+          <div id="search-results"></div>
+          <script id="search-result-template" type="text/x-js-template">
+            <div class="py-4 border-bottom" id="summary-${key}">
+              <h4><a href="${link}">${title}</a></h4>
+              <p>${snippet}</p>
+              ${ isset tags }<p>Tags: ${tags}</p>${ end }
+              ${ isset categories }<p>Categories: ${categories}</p>${ end }
+            </div>
+        </script>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<footer class="py-4 bg-light border-top">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-lg-4 text-center text-lg-left mb-4 mb-lg-0">
+        <a href="https://ekonurarifin.my.id/" class="d-block pb-3"><img src="/images/hugo.svg" class="img-fluid" alt="Eko Nur Arifin"></a>
+      </div>
+      <div class="col-lg-4 text-center mb-4 mb-lg-0">
+        <ul class="list-inline mb-0">
+          
+        </ul>
+      </div>
+      <div class="col-lg-4 text-lg-right text-center mb-4 mb-lg-0">
+        <ul class="list-inline social-icon mb-0">
+          
+          <li class="list-inline-item"><a href="https://www.facebook.com/eko.nurarifin21"><i class="ti-facebook"></i></a></li>
+          
+          <li class="list-inline-item"><a href="https://twitter.com/EkonurArifin85"><i class="ti-twitter-alt"></i></a></li>
+          
+          <li class="list-inline-item"><a href="https://github.com/ary21"><i class="ti-github"></i></a></li>
+          
+          <li class="list-inline-item"><a href="https://linkedin.com/in/eko-nur-arifin-b31409174/"><i class="ti-linkedin"></i></a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="text-center mt-4">
+      <span>© 2020 All Rights Reserved</span>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+<!-- JS Plugins -->
+
+<script src="https://ekonurarifin.my.id/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://ekonurarifin.my.id/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://ekonurarifin.my.id/plugins/search/fuse.min.js"></script>
+
+<script src="https://ekonurarifin.my.id/plugins/search/mark.js"></script>
+
+<script src="https://ekonurarifin.my.id/plugins/search/search.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://ekonurarifin.my.id/js/script.min.js"></script>
+
+<!-- google analitycs -->
+</body>
+
+</html>

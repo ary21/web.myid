@@ -45,20 +45,20 @@ name = "Contact"
 weight = 1
 
 [[menu.main]]
-URL = "tools"
-name = "tools"
+URL = "portfolios/my-portfolios"
+name = "portfolios"
 weight = 2
 
 # footer menu
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
+# [[menu.footer]]
+# URL = "contact"
+# name = "Contact"
+# weight = 1
 
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
+# [[menu.footer]]
+# URL = "tools"
+# name = "tools"
+# weight = 2
 
 
 ######################### Default Parameters ###########################
@@ -66,18 +66,18 @@ weight = 2
 # home
 home = "Home"
 # logo
-logo = "images/logo.svg"
+logo = "images/hugo.svg"
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Eko Nur Arifin"
+description = "Personal website of Eko Nur Arifin as Software Developer"
 # google tag manager
 google_tag_manager = "" # your id
 # google analitycs ID
 google_analitycs_id = "" # your id
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/mjveeoyk" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2020 All Rights Reserved"
 
 # preloader
 [params.preloader]
@@ -86,13 +86,13 @@ preloader = "" # use png, jpg, svg or gif format
 
 # search
 [params.search]
-enable = true
+enable = false
 
 
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, I'm Eko Nur Arifin.<br>I like building software, especially websites development."
 image = "images/banner/illustration.svg"
 
 
@@ -100,24 +100,28 @@ image = "images/banner/illustration.svg"
 [params.cta]
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+title = "Keep learning and try best"
+description = "Building software is my passion, with more than 3 years of development experience."
 [params.cta.button]
 enable = true
-label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+label = "Contact Me"
+link = "contact"
 
 
 ############################## Social Site ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
+icon = "ti-facebook" # themify icon pack https://www.facebook.com/eko.nurarifin21
+link = "https://www.facebook.com/eko.nurarifin21"
+target = "_blank"
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
+icon = "ti-twitter-alt" # themify icon pack https://twitter.com/EkonurArifin85
+link = "https://twitter.com/EkonurArifin85"
+target = "_blank"
 [[params.social]]
-icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
+icon = "ti-github" # themify icon pack https://github.com/ary21
+link = "https://github.com/ary21"
+target = "_blank"
 [[params.social]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+icon = "ti-linkedin" # themify icon pack https://linkedin.com/in/eko-nur-arifin-b31409174/
+link = "https://linkedin.com/in/eko-nur-arifin-b31409174/"
+target = "_blank"

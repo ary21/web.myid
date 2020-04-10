@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Eko Nur Arifin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2019 05:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ekonurarifin.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Portfolios</title>
+      <link>https://ekonurarifin.my.id/categories/portfolios/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://ekonurarifin.my.id/categories/portfolios/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

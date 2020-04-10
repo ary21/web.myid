@@ -3,26 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ekonurarifin.my.id/</loc>
-    <lastmod>2020-04-09T23:38:47+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ekonurarifin.my.id/posts/my-first-post/</loc>
-    <lastmod>2020-04-09T23:38:47+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ekonurarifin.my.id/posts/</loc>
-    <lastmod>2020-04-09T23:38:47+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ekonurarifin.my.id/categories/</loc>
+    <lastmod>2019-11-07T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/</loc>
+    <lastmod>2019-11-07T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/categories/portfolios/</loc>
+    <lastmod>2019-11-07T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/portfolios/</loc>
+    <lastmod>2019-11-07T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/portfolios/my-portfolios/</loc>
+    <lastmod>2019-11-07T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/search/</loc>
   </url>
   
   <url>
     <loc>https://ekonurarifin.my.id/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ekonurarifin.my.id/tools/</loc>
   </url>
   
 </urlset>

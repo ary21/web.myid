@@ -6,18 +6,36 @@
     <description>Recent content on Eko Nur Arifin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 23:38:47 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2019 05:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ekonurarifin.my.id/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://ekonurarifin.my.id/posts/my-first-post/</link>
-      <pubDate>Thu, 09 Apr 2020 23:38:47 +0700</pubDate>
+      <title>Portfolios</title>
+      <link>https://ekonurarifin.my.id/portfolios/my-portfolios/</link>
+      <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
       
-      <guid>https://ekonurarifin.my.id/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://ekonurarifin.my.id/portfolios/my-portfolios/</guid>
+      <description>All the results of my work can be seen here.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://ekonurarifin.my.id/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ekonurarifin.my.id/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://ekonurarifin.my.id/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ekonurarifin.my.id/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>
